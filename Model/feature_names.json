@@ -1,0 +1,1 @@
+["day_of_week_num", "is_weekend", "is_monsoon", "is_public_holiday", "is_major_festival_or_event", "rainfall_mm", "wave_height_m", "wind_speed_10m_mps", "population_thousand", "total_tourists_annual", "rainfall_lag1", "rainfall_3day_sum", "is_weekend_lag1", "is_public_holiday_lag1", "is_major_festival_or_event_lag1", "day", "month", "year"]

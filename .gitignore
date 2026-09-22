@@ -1,0 +1,31 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local configuration and secrets (do not upload credentials)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Test, coverage, and log output
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
