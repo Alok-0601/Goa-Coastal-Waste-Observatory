@@ -153,7 +153,7 @@ The Streamlit application has three sections:
 - **Evidence explorer** — filter the 2022–2025 observations, inspect daily trends, monthly and day-of-week summaries, simple associations, and download the filtered records as CSV.
 - **Data & methodology** — a concise record of the study period, modelling approach, feature families, and responsible-use limits.
 
-[Live Demo Link](https://goa-coastal-waste.streamlit.app/) · [Demo Video](./brag.mp4)
+[Live Demo Link](https://goa-coastal-waste.streamlit.app/) · [Demo Video](https://drive.google.com/file/d/1ANlnxVSY6qkFucMmdqr57TAN_xVI91GP/view?usp=sharing)
 
 These links are placeholders until a live Streamlit URL or video is available.
 
